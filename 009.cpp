@@ -9,6 +9,7 @@ int main(){
     cout<<"Temperatura em Farenheit: ";
     cin>>f;
 
+    
     c=(5*(f-32)/9);
     cout<<"Temperatura em graus Celsius: "<<c<<endl;
 
