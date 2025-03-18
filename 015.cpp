@@ -4,8 +4,7 @@ using namespace std;
 
 int main (){
     
-    int d,l,r,i,s;
-    double x,y,m;
+    double x,y,m,d,l,r,i,s;
 
     cout <<"Quastas horas voce trabalha por mes: ";
     cin >> y;
